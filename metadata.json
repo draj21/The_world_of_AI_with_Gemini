@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel IT Risk Analyzer",
+  "description": "A professional tool for analyzing IT project risks, providing automated categorization, mitigation strategies, and priority assessment using Gemini AI.",
+  "requestFramePermissions": []
+}
